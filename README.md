@@ -31,3 +31,9 @@ First install python and MySQL. Then in the create_table.py change the password 
 Then run the create_table.py file from the backend folder.
 The run the server.py file from the backend folder and keep this running in background.
 Then run the index.html file from the ui folder in any browser of your choice.
+
+# How it will look
+
+![homepage](https://user-images.githubusercontent.com/73990799/132454463-7283a35f-0380-48c8-af85-febea0e12f92.JPG)
+
+This is how it looks in Safari, but you can use it with any browser you like.
