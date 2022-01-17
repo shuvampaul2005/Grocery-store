@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 connection = get_sql_connection()
 
-
+a = auth.check(connection)
 if a==True:
     @app.route('/getUOM', methods=['GET'])
     def get_uom():
